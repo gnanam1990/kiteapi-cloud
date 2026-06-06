@@ -8,6 +8,12 @@ This repository is built from the staged OpenCode prompt pack in `prompts/`.
 
 Host paid APIs for Kite agents with metering, key limits, payment checks, and seller analytics.
 
+## Proof of Work
+
+- Live Vercel deployment: https://kiteapi-cloud.vercel.app
+- Public proof report: [docs/PROOF_OF_WORK.md](docs/PROOF_OF_WORK.md)
+- Rendered screenshot: [docs/screenshot.jpg](docs/screenshot.jpg)
+
 ## Core modules
 
 - **API Publisher Dashboard** — Developers register APIs, endpoints, pricing, docs, and access rules.
